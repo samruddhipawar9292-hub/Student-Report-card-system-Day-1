@@ -29,14 +29,14 @@ class Student:
 
 
 
-student1 = Student("Kunal", 101)
+student1 = Student("Samruddhi", 36)
 
 
-student1.add_grade("Maths", 90)
-student1.add_grade("Python", 95)
-student1.add_grade("DBMS", 88)
+student1.add_grade("Maths", 95)
+student1.add_grade("Python", 94)
+student1.add_grade("DBMS", 90)
 
 
-student1.add_grade("Maths", 92)
+student1.add_grade("Maths", 95)
 
 student1.display_report_card()
