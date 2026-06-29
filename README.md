@@ -64,16 +64,16 @@ python student_report_card.py
 ================
 ===== REPORT CARD =====
 
-Name     : Kunal
-Roll No. : 101
+Name     : Samruddhi
+Roll No. : 36
 
 Subjects and Marks:
-Maths : 92
-Python : 95
-DBMS : 88
+Maths : 95
+Python : 94
+DBMS : 90
 
-Total Marks : 275
-Average     : 91.67
+Total Marks : 279
+Average     : 93
 
 🎯 Learning Outcomes
 ================
